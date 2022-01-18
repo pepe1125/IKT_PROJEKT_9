@@ -23,10 +23,7 @@ body {
 }
 
 .box1:hover {
-    width: 240px;
-    height: 240px;
-    margin-left: 80px;
-    margin-top: 80px;
+    transform: scale(1.2);
     background-color: black;
     color: white;
 }
@@ -43,10 +40,7 @@ body {
 }
 
 .box2:hover {
-    width: 240px;
-    height: 240px;
-    margin-right: 80px;
-    margin-top: 80px;
+    transform: scale(1.2);
     background-color: black;
     color: white;
 }
