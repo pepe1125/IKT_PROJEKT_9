@@ -51,7 +51,12 @@ h1 {
     text-align: center;
 }
 
-#center {
+#center1 {
+    text-align: center;
+    margin-top: 45%;
+}
+
+#center2 {
     text-align: center;
     margin-top: 45%;
 }
